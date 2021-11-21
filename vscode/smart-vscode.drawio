@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T04:37:19.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="JVpYK6c-cq4zL7itTSIs" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T04:37:41.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="MeJUNA4-mXRceepHmL1W" version="15.8.2" type="github">
   <diagram id="IuYXAj8Oob3olquy-viU" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,45 +8,45 @@
           <mxGeometry x="390" y="40" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-5">
-          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="112" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-5">
-          <mxGeometry x="45" y="321" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="353" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-7" value="用户" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="20" height="520" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-7">
-          <mxGeometry x="10" y="160" width="10" height="40" as="geometry" />
+          <mxGeometry x="10" y="192" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-8" value="Smart 插件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="631" y="40" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-8">
-          <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="152" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-8">
-          <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="232" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-8">
-          <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="312" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="5qhUvyzgEuCLn1jN-0WN-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="89" y="280" as="sourcePoint" />
-            <mxPoint x="54" y="280" as="targetPoint" />
+            <mxPoint x="89" y="312" as="sourcePoint" />
+            <mxPoint x="54" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="5qhUvyzgEuCLn1jN-0WN-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="55" y="240" as="sourcePoint" />
-            <mxPoint x="89" y="240" as="targetPoint" />
+            <mxPoint x="55" y="272" as="sourcePoint" />
+            <mxPoint x="89" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5qhUvyzgEuCLn1jN-0WN-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5qhUvyzgEuCLn1jN-0WN-7" target="5qhUvyzgEuCLn1jN-0WN-10">
+        <mxCell id="5qhUvyzgEuCLn1jN-0WN-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5qhUvyzgEuCLn1jN-0WN-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="170" as="sourcePoint" />
-            <mxPoint x="430" y="120" as="targetPoint" />
+            <mxPoint x="199.5" y="152" as="sourcePoint" />
+            <mxPoint x="430" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-14" value="Ctrl + Shift + P 打开Vscode命令面板&lt;br&gt;选择创建 RT-Thread Smart 工程" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5qhUvyzgEuCLn1jN-0WN-13">
@@ -56,8 +56,8 @@
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.3;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="160" as="sourcePoint" />
-            <mxPoint x="679" y="160" as="targetPoint" />
+            <mxPoint x="440" y="192" as="sourcePoint" />
+            <mxPoint x="679" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-17" value="激活 smart 插件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5qhUvyzgEuCLn1jN-0WN-16">
@@ -67,8 +67,8 @@
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="5qhUvyzgEuCLn1jN-0WN-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="677" y="199.96000000000004" as="sourcePoint" />
-            <mxPoint x="440" y="200" as="targetPoint" />
+            <mxPoint x="677" y="231.96000000000004" as="sourcePoint" />
+            <mxPoint x="440" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-20" value="提示输入 工程名、SDK ROOT、编译工具等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5qhUvyzgEuCLn1jN-0WN-19">
@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209.75" y="240" as="sourcePoint" />
-            <mxPoint x="677" y="241" as="targetPoint" />
+            <mxPoint x="209.75" y="272" as="sourcePoint" />
+            <mxPoint x="677" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-23" value="输入 工程名、SDK ROOT、编译工具等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5qhUvyzgEuCLn1jN-0WN-22">
@@ -87,10 +87,10 @@
             <mxPoint x="39" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5qhUvyzgEuCLn1jN-0WN-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="5qhUvyzgEuCLn1jN-0WN-5">
+        <mxCell id="5qhUvyzgEuCLn1jN-0WN-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="681" y="360" as="sourcePoint" />
-            <mxPoint x="450" y="360" as="targetPoint" />
+            <mxPoint x="681" y="392" as="sourcePoint" />
+            <mxPoint x="439.5" y="392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-28" value="创建工程并调用 vscode 重启接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5qhUvyzgEuCLn1jN-0WN-27">
@@ -100,33 +100,33 @@
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="320" as="sourcePoint" />
-            <mxPoint x="720" y="280" as="targetPoint" />
+            <mxPoint x="720" y="352" as="sourcePoint" />
+            <mxPoint x="720" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;校验输入信息并显示&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="290" width="130" height="30" as="geometry" />
+          <mxGeometry x="720" y="322" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="476" y="441" as="sourcePoint" />
-            <mxPoint x="441" y="441" as="targetPoint" />
+            <mxPoint x="476" y="473" as="sourcePoint" />
+            <mxPoint x="441" y="473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="442" y="401" as="sourcePoint" />
-            <mxPoint x="476" y="401" as="targetPoint" />
+            <mxPoint x="442" y="433" as="sourcePoint" />
+            <mxPoint x="476" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="476" y="441" as="sourcePoint" />
-            <mxPoint x="476" y="401" as="targetPoint" />
+            <mxPoint x="476" y="473" as="sourcePoint" />
+            <mxPoint x="476" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-47" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;重启 vscode&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="411" width="130" height="30" as="geometry" />
+          <mxGeometry x="476" y="443" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
