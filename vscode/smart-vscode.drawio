@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T10:59:08.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BNI0YCLOT8NsSOpmybuz" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T12:07:02.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="CpfPNAV7vcgwVqm0gorB" version="15.8.3" type="github">
   <diagram id="IuYXAj8Oob3olquy-viU" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -135,10 +135,7 @@
           <mxGeometry x="390" y="680" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="5qhUvyzgEuCLn1jN-0WN-49" vertex="1">
-          <mxGeometry x="45" y="112" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="AnVJ1PIabsd6nHq8dn9T-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="5qhUvyzgEuCLn1jN-0WN-49">
-          <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="112" width="10" height="168" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-53" value="用户" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="680" width="20" height="520" as="geometry" />
@@ -147,12 +144,12 @@
           <mxGeometry x="631" y="680" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="5qhUvyzgEuCLn1jN-0WN-55" vertex="1">
-          <mxGeometry x="45" y="153" width="10" height="46" as="geometry" />
+          <mxGeometry x="45" y="153" width="10" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="5qhUvyzgEuCLn1jN-0WN-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="5qhUvyzgEuCLn1jN-0WN-55" edge="1" target="AnVJ1PIabsd6nHq8dn9T-10">
+        <mxCell id="5qhUvyzgEuCLn1jN-0WN-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="5qhUvyzgEuCLn1jN-0WN-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-184" y="240" as="sourcePoint" />
-            <mxPoint x="283.63" y="241" as="targetPoint" />
+            <mxPoint x="-183" y="240" as="sourcePoint" />
+            <mxPoint x="41" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5qhUvyzgEuCLn1jN-0WN-50" edge="1">
@@ -168,8 +165,8 @@
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.3;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="833" as="sourcePoint" />
-            <mxPoint x="679" y="833" as="targetPoint" />
+            <mxPoint x="446" y="833" as="sourcePoint" />
+            <mxPoint x="675" y="833" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5qhUvyzgEuCLn1jN-0WN-64" value="激活 smart 插件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5qhUvyzgEuCLn1jN-0WN-63" vertex="1" connectable="0">
@@ -179,8 +176,8 @@
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="682.5" y="879" as="sourcePoint" />
-            <mxPoint x="441" y="879" as="targetPoint" />
+            <mxPoint x="677" y="879" as="sourcePoint" />
+            <mxPoint x="448" y="879" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-3" value="调用创建 vscode 终端j接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnVJ1PIabsd6nHq8dn9T-2">
@@ -189,31 +186,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-7" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;创建新终端或者打开上次的终端&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="890" width="170" height="30" as="geometry" />
+          <mxGeometry x="480" y="890" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-10" value="终端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="871" y="680" width="100" height="520" as="geometry" />
         </mxCell>
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="AnVJ1PIabsd6nHq8dn9T-10">
+          <mxGeometry x="45" y="239" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="1002" as="sourcePoint" />
-            <mxPoint x="921.5" y="1002" as="targetPoint" />
+            <mxPoint x="686" y="998" as="sourcePoint" />
+            <mxPoint x="916" y="998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnVJ1PIabsd6nHq8dn9T-12" value="发送 scons/make 等命令开始编译" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnVJ1PIabsd6nHq8dn9T-11">
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-12" value="发送 scons/cmake/make 等命令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnVJ1PIabsd6nHq8dn9T-11">
           <mxGeometry x="-0.2148" y="-2" relative="1" as="geometry">
-            <mxPoint x="20" y="-14" as="offset" />
+            <mxPoint x="25" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnVJ1PIabsd6nHq8dn9T-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.4;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="682" y="960" as="sourcePoint" />
-            <mxPoint x="923.5" y="960" as="targetPoint" />
+            <mxPoint x="687" y="956" as="sourcePoint" />
+            <mxPoint x="917" y="956.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-14" value="如果是新终端，则在终端配置环境 env.json" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnVJ1PIabsd6nHq8dn9T-13">
           <mxGeometry x="-0.2148" y="-2" relative="1" as="geometry">
-            <mxPoint x="20" y="-14" as="offset" />
+            <mxPoint x="25" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-17" value="创建工程&lt;br&gt;时序图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -221,6 +221,30 @@
         </mxCell>
         <mxCell id="AnVJ1PIabsd6nHq8dn9T-18" value="编译工程&lt;br&gt;时序图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="915" y="1039" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="959" y="1039" as="sourcePoint" />
+            <mxPoint x="924" y="1039" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925" y="999" as="sourcePoint" />
+            <mxPoint x="959" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="959" y="1039" as="sourcePoint" />
+            <mxPoint x="959" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnVJ1PIabsd6nHq8dn9T-25" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;开始编译&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1009" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
